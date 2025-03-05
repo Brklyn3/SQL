@@ -1,1 +1,1 @@
-#Projects using SQL
+Projects using SQL
